@@ -23,6 +23,7 @@ I'm a fullstack developer and cybersecurity researcher from Italy!
 
 - I love being more frontend than backend
 - Freelance software engineer
+- Proud of working for __[Wethod](https://www.wethod.com/)__
 - Proud of worked for __[TryHackMe](https://tryhackme.com/)__
 - **CRM** and **task manager** :heart: lover and creator
 - I'm also a music producer, half of [Alterego](https://open.spotify.com/artist/55QJ0WbNetVYKvRU0BFYxc?si=TF3gzsSIQ5-zu85tKLXgMw)
