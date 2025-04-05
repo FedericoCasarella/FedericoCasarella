@@ -1,15 +1,15 @@
-# Hi, I'm Federico Casarella (:coffee::computer::bulb::heart:)
+# Hi, I'm Federico Casarella
 
-I'm a fullstack developer and cybersecurity researcher from Italy!
+I'm a entrepreneur and fullstack developer from Italy!
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/federico.casarella) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fred_aaberg/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-casarella-b43b03149/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9t9itV1fbPswtIgEv8hvbg) [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://ko-fi.com/fedecasa97)
 
-- :muscle: Currently working as fullstack developer.
+- :muscle: Currently working as freelancer.
 - :gift_heart: Author of multiple projects.
 - :moneybag: Looking for new friends who wants to work with me [contact me](mailto:federico97casarella@gmail.com).
-- :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://ko-fi.com/zappp)!
-- :trophy: 2023 Goals: Contribute and publish more projects.
-- :dart: Wasting my time to save other people's time.
+- :coffee: Coffee lover, turning it into code and money, [you can buy me a coffee](https://ko-fi.com/zappp)!
+- :trophy: 2025 Goal: To publish my new SaaS, Noryo, an advanced website tracking platform.
+- :dart: Give work to other people.
 
 ## :headphones: Spotify Playing
 
@@ -23,7 +23,7 @@ I'm a fullstack developer and cybersecurity researcher from Italy!
 
 - I love being more frontend than backend
 - Freelance software engineer
-- Proud of working for __[Wethod](https://www.wethod.com/)__
+- Proud of working with __[Wethod](https://www.crowdm.com/)__
 - Proud of worked for __[TryHackMe](https://tryhackme.com/)__
 - **CRM** and **task manager** :heart: lover and creator
-- I'm also a music producer, half of [Alterego](https://open.spotify.com/artist/55QJ0WbNetVYKvRU0BFYxc?si=TF3gzsSIQ5-zu85tKLXgMw)
+- I was also a music producer, half of [Alterego](https://open.spotify.com/artist/55QJ0WbNetVYKvRU0BFYxc?si=TF3gzsSIQ5-zu85tKLXgMw)
